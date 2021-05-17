@@ -1,0 +1,12 @@
+
+# Ignore dynaconf secret files
+configs/.secrets.toml
+
+# Python files
+
+__pycache__/
+
+# Pycharm files
+
+.idea
+venv-sio
